@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "260283240468",
+    "project_id": "ecom-ce6ea",
+    "storage_bucket": "ecom-ce6ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260283240468:android:eb18139b7e5dc6fcbf1701",
+        "android_client_info": {
+          "package_name": "net.watan.suppliers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260283240468-90j5vdaft3ctq51hfaqql0flcrhhugpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.watan.suppliers",
+            "certificate_hash": ""
+          }
+        },
+        {
+          "client_id": "260283240468-ksqu5jv08uietq0s8j7gm36ga6km0767.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.watan.suppliers",
+            "certificate_hash": ""
+          }
+        },
+        {
+          "client_id": "260283240468-b6cvmqvhat3t7445cqr7bs3n1irg0i7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260283240468-b6cvmqvhat3t7445cqr7bs3n1irg0i7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
